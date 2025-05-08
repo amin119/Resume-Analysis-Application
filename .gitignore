@@ -7,7 +7,7 @@ __pycache__/
 .DS_Store
 .env
 models/
-data/processed/
+#data/processed/
 *.csv
 *.pdf
 faiss_index/
