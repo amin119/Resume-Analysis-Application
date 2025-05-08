@@ -1,0 +1,12 @@
+transformers==4.30.0
+torch==2.7.0  # or torch>=2.2.0
+langchain==0.0.200
+faiss-cpu==1.7.4
+fastapi==0.95.2
+uvicorn==0.22.0
+python-dotenv==1.0.0
+beautifulsoup4==4.12.2
+pandas==2.0.2
+scikit-learn==1.2.2
+pypdf2==3.0.1
+

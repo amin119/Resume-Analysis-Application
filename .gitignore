@@ -1,0 +1,13 @@
+# .gitignore
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
+models/
+data/processed/
+*.csv
+*.pdf
+faiss_index/
